@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m a Ph.D student at Westlake University & Zhejiang University.
--  🔭 I’m currently working on 3D Computer Vsion.
--  - 😄 Collaborations or discussions are welcome!
+- 🔭 I’m currently working on 3D Computer Vsion.
+- 😄 Collaborations or discussions are welcome!
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
